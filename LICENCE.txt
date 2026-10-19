@@ -18,8 +18,9 @@ SWIFT est un logiciel gratuit d'Oka.
    dommage lié à son utilisation, y compris la perte de fichiers. Gardez une copie de ce qui
    compte.
 
-5. Les composants inclus (FFmpeg, LAME, Opus, Ogg, Vorbis, zlib, runtime MinGW-w64,
-   bibliothèques Rust) gardent leurs propres licences, dont les textes sont dans le dossier
-   LICENCES. Ce texte ne les restreint en rien. Les sources exactes de FFmpeg, LAME, Opus, Ogg et
-   Vorbis utilisées par SWIFT sont fournies sur simple demande à Oka@Akiden.fr, pendant au moins
-   trois ans après la dernière diffusion de chaque version.
+5. Les composants inclus (FFmpeg, LAME, Opus, Ogg, Vorbis, SVT-AV1, libvpx, dav1d, libvpl, les
+   en-têtes NVENC et AMF, zlib, les runtimes MinGW-w64 et GCC, les bibliothèques Rust) gardent
+   leurs propres licences, dont les textes sont dans le dossier LICENCES. Ce texte ne les
+   restreint en rien. Les sources exactes de FFmpeg et des bibliothèques compilées avec lui, telles
+   que SWIFT les utilise, sont fournies sur simple demande à Oka@Akiden.fr, pendant au moins trois
+   ans après la dernière diffusion de chaque version.
