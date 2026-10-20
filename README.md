@@ -41,7 +41,7 @@ le format, on clique sur Convertir. Gratuit, sans compte, sans publicité, rien 
   pas gêner un jeu ou un stream.
 - Jamais d'écrasement sans demander.
 - « Convertir avec SWIFT » au clic droit de l'Explorateur, si vous le voulez.
-- Mises à jour automatiques et vérifiées : vous n'avez pas à revenir chercher un zip.
+- Mises à jour vérifiées, directement depuis l'appli : pas besoin de revenir sur GitHub.
 - Thème clair ou sombre, comme Windows.
 
 ## Vitesse
@@ -86,8 +86,8 @@ Vous pouvez vérifier vous-même ce que vous téléchargez : la page de chaque v
 l'empreinte SHA-256 de son zip. Dans PowerShell, `Get-FileHash .\SWIFT-x.y.z-portable.zip` doit
 donner la même.
 
-Les mises à jour automatiques sont signées : SWIFT n'installe que ce que j'ai signé avec ma clé,
-et vérifie l'empreinte de chaque fichier avant de l'utiliser.
+Les mises à jour sont signées : SWIFT n'installe que ce que j'ai signé avec ma clé, et vérifie
+l'empreinte de chaque fichier avant de l'utiliser.
 
 ## Licence
 
